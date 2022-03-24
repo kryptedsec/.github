@@ -5,7 +5,7 @@
 
 - 🔭 Recent/Current projects: **Hazard Nuker, Nightmare Tools, and Vegan Builder!**
 
-- 🌱 We are learning: **JavaScript, Python, and C++ (I already know JS and Python but you never stop learning!)**
+- 🌱 We are learning: **JavaScript, Python, and C++**
 
 - 👯 We’re looking to collaborate on: **Python-based Discord tools!**
 
