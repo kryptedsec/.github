@@ -1,4 +1,4 @@
-<a href="https://shade.army" target="_blank"> <img allign="center" src="https://cdn.discordapp.com/attachments/908499621616169021/959190838133538866/kryptedsecbannar.gif?size=4096" alt="KryptedSec's Github"/></a>
+<a href="https://me.krypt.fun" target="_blank" allign="center"> <img src="https://cdn.discordapp.com/attachments/908499621616169021/959190838133538866/kryptedsecbannar.gif?size=4096" alt="KryptedSec's Github"/></a>
 <h1 align="center">👋 Welcome to KryptedSec!</h1>
 <h3 align="center">KryptedSec is a group of young developers that enjoy creating exploits and malware in our free time! We create Discord-based malware, RATs, Ransomware and much more!</h3>
 
